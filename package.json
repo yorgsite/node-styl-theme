@@ -1,0 +1,35 @@
+{
+  "name": "node-styl-theme",
+  "version": "0.0.1",
+  "description": "theming tool for with node-styl and node-styl-rgb",
+  "main": "node-styl-theme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorgsite/node-styl-theme.git"
+  },
+  "keywords": [
+    "console",
+    "bash",
+    "javascript",
+    "color",
+    "styling",
+    "rgb",
+    "16",
+    "256",
+    "16m"
+  ],
+  "author": "yorg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yorgsite/node-styl-theme/issues"
+  },
+  "homepage": "https://github.com/yorgsite/node-styl-theme#readme",
+  "dependencies": {
+    "node-styl": "0.0.6",
+    "node-styl-rgb": "0.0.2",
+    "styl-abstract-theme": "0.0.1"
+  }
+}
